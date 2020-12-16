@@ -1,0 +1,22 @@
+body {
+    background-color: lightcoral;
+}
+
+h1 {
+    color: indigo;
+    background-color: indianred;
+    text-align: center;
+}
+
+button {
+    width: 20px;
+    height: 20px;
+}
+
+#dodaj {
+    background-color: darkslateblue;
+}
+
+#usun {
+    background-color: firebrick;
+}
